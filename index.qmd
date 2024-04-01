@@ -13,7 +13,7 @@ navbar:
 page-navigation: true
 comments: 
     utterances:
-      repo: quarto-dev/quarto-web
+      repo: cruzadl/notesites
       theme: github-dark-orange
 page-footer: 
     left: "Copyright 1997" 
