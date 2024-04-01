@@ -1,0 +1,34 @@
+---
+title: "notesites"
+navbar:
+  search: true#
+  type: textbox
+  limit: 50
+  copy-button: true
+  left: 
+    - text: "Notes"
+      file: index.qmd
+    - text: "Licence Oi!"
+      file: index.qmd
+page-navigation: true
+comments: 
+    utterances:
+      repo: quarto-dev/quarto-web
+      theme: github-dark-orange
+page-footer: 
+    left: "Copyright 1997" 
+    right: 
+      - icon: github
+        href: https://github.com/
+listing: 
+  contents: extposts
+  type: default
+  categories: cloud
+format:
+  html:
+    page-layout: full
+    css: styles.css
+    toc: true
+---
+
+This is my Notes Site, it used to be a  blog where the form reflected the content but that time has passed. See all the notes below.

@@ -1,0 +1,41 @@
+---
+title: "What is an aphorism"
+author: Arturo
+format:
+  html:
+    css: posts_styles.css
+---
+
+An aphorism is a brief/succinct/concise observation which encapsulates a general truth.
+
+This blog post collects three of them.
+
+“*Der Mensch kann tun was er will; er kann aber nicht wollen was er will.”*
+
+“Man can do what he wills but he cannot will what he wills.”
+
+*Arthur Schopenhauer*
+
+“So Stark
+
+Und Doch Verletzbar
+
+Das Volk, Der Mensch
+
+Der Wald, Der Baum”
+
+“So strong
+
+yet so vulnerable,
+
+the People, the Person,
+
+the Forest, the Tree”
+
+*East Side Gallery, Berlin*
+
+“Bananas are not the only fruit,
+
+cookies are not a meal”
+
+*Whitechapel, London, 2017*

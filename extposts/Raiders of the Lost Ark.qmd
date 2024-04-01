@@ -1,0 +1,9 @@
+---
+title: "Raiders of the Lost Ark"
+author: Arturo
+format:
+  html:
+    css: posts_styles.css
+---
+
+Raiders is one of the best desert action adventure epic movies of all times. Many agree. The reasons are too many to count. Spielberg at his best. His buddy Soderbergh, another Steven, edited the movie to remove, all colour and all sound, and posted it online. Here. You can still understand every single thing that's going on, characters, intentions, tensions, pace. That's not movie stars, it's movie magic. Leaving aside technical mastery of all things cinema. The story of the ark is very cool. The ark is essentially a box.
