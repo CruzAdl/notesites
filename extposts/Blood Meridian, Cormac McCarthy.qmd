@@ -1,5 +1,5 @@
 ---
-title: "Blodd Meridian"
+title: "Blood Meridian"
 author: Arturo
 format:
   html:

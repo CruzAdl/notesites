@@ -1,0 +1,56 @@
+/* css styles */
+/* General styling */
+/* General body styling */
+body {
+    font-family: "Open Sans", 'Arial', sans-serif;
+    background-color: #1a1a1a; /* Dark background */
+    color: #f0f0f0; /* Light text for contrast */
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Headings with a funky twist */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+    color: #FF8000; /* A funky color for headings */
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+/* Styling for paragraphs */
+p {
+    margin-bottom: 1em;
+}
+
+/* Links with a funky hover effect */
+div.quarto-post a {
+    /*color: #FF4000;
+    text-decoration: none;*/
+    color: white;
+}
+
+div.quarto-post a:hover {
+    /* text-decoration: underline;
+    color: #FFBF00; Change color on hover */
+    color: white;
+}
+
+div.quarto-post .thumbnail {
+  max-width: 0px;
+}
+
+div.quarto-post .metadata {
+  max-width: 0px;
+}

@@ -4,15 +4,9 @@ project:
 website:
   title: "notesites"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-
-
+    left: 
+      - text: "Notes"
+        file: index.qmd
+    right:
+      - text: "Licence Oi!"
+        file: index.qmd

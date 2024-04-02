@@ -1,9 +1,13 @@
 ---
 title: "All the books in the world worth reading"
 author: Arturo
+# subtitle:	"A short story about a young boy"
+abstract: "A short story about a young boy"
+categories: "short-story" 
 format:
   html:
     css: posts_styles.css
+    page-layout: full
 ---
 
 It was a Wednesday morning like any other for 12-year-old Donald Green. He was awoken by the memory of his sister’s alarm-clock. Although a quiet and comforting thought, it was eerie how some days he could also hear the footsteps it used to precede. She was in college now, had been for almost a year studying Anthropology or something like that. Just a few seconds later, his hand extended from underneath the covers feeling for his own alarm-clock ringing. The room was dark and damp, the top bunk empty as it had been for weeks, and the air smelled faintly of white-board markers. He was never prepared but it always arrived, the morning urge to evacuate, as his dad called it. An upside of his sister leaving was that he had freedom to use the toilet on the first floor instead of the freezing cold one on the ground. There was always this moment of calm emergency in the morning, when Don squared off with two opposing forces, the fullness of his bladder and the inertia of sleep. He revelled in this moment every morning since the top bunk became empty, willing to debate both angel and devil in exchange for a few more minutes of oblivion.
